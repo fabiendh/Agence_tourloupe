@@ -1,0 +1,44 @@
+[
+  {
+    "author" : "Sakagi",
+    "name" : "Agence Tourloupe",
+    "keyWords" : "Agence Tourloupe, dofus",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.37",
+    "description" : "Agence Tourloupe",
+    "url" : "https://github.com/fabiendh/Agence_tourloupe/blob/master/Agence_tourloupe.zip?raw=true",
+    "previewUrl" : "votre image de preview",
+    "creationDate" : "01/11/2016",
+    "modificationDate" : "01/11/2016"
+    }
+]
+
+[
+  {
+    "author" : "Sakagi",
+    "name" : "Agence Tourloupe Sandstone",
+    "keyWords" : "Agence Tourloupe, dofus",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.37",
+    "description" : "Agence Tourloupe Sandstone",
+    "url" : "https://github.com/fabiendh/Agence_tourloupe/blob/master/Agence_tourloupe_sandstone-master.zip?raw=true",
+    "previewUrl" : "votre image de preview",
+    "creationDate" : "01/11/2016",
+    "modificationDate" : "01/11/2016"
+    }
+]
+
+[
+  {
+    "author" : "Sakagi",
+    "name" : "Agence Tourloupe Space",
+    "keyWords" : "Agence Tourloupe, dofus",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.37",
+    "description" : "Agence Tourloupe Space",
+    "url" : "https://github.com/fabiendh/Agence_tourloupe/blob/master/Agence_tourloupe_space-master.zip?raw=true",
+    "previewUrl" : "votre image de preview",
+    "creationDate" : "01/11/2016",
+    "modificationDate" : "01/11/2016"
+    }
+]
